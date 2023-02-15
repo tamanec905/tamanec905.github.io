@@ -1,0 +1,28 @@
+{
+  "user" : [
+
+
+    {
+      "DisplayName" : "Bilbo Baggins",
+      "EmailAddress" : "bilbo@domain.ca",
+      "Username" : "bbaggins",
+      "Password" : "123456"
+    },
+
+    {
+      "DisplayName" : "Bruce Wayne",
+      "EmailAddress" : "bruce@domain.ca",
+      "Username" : "batman",
+      "Password" : "654321"
+    },
+
+    {
+      "DisplayName" : "Michael Jackson",
+      "EmailAddress" : "michael@domain.ca",
+      "Username" : "mj",
+      "Password" : "789321"
+    }
+
+  ]
+
+}
